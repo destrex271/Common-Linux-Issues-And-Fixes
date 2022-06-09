@@ -18,3 +18,5 @@ And if you find any new solution for these issues or any other issues that you m
 
 This particular repository is a collection of some of the problems I faced and i hope this might help you out.
 Obviously most of these solutions are out there but some of them are very difficult to find so I decided to create this particular repository to anyone who might be facing these problems and might be interested in these solutions.
+
+**Contributions are most welcome and appreciated! Thx for stopping by and lets spread the craze for linux everywhere😎😎!!**
