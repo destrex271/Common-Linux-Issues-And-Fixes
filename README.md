@@ -10,7 +10,7 @@ Most of them are due to some issues with drivers or some other issues with the d
 
 All the issues are listed in the form of respective branches in the repository.
 You can browse through them and use these solutions.
-Also if you find any problem with the solutions given you can raise an issue to initiate a discussion.
+**Also if you face any issues or find any problems with the solutions given you can raise an issue to initiate a discussion.**
 
 And if you find any new solution for these issues or any other issues that you might have faced you are free to contribute. `Just remember to add the solution in the appropriate branch.`
 
