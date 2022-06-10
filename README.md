@@ -5,10 +5,10 @@ Given below are a bunch of commands you can try in the termina to see how they w
   You can use the `sl` command to have a steam locomotive go around the terminal.
 <br>
 
- ### Installing sl
+- ### Installing sl
   <img src = "/imgs/sl_installing.png" alt = "sl installing"></img>
 
-  ### Running sl
+-  ### Running sl
   <img src ="/imgs/sl_running.png" alt= "sl running"></img>
 
   You can also use ``-F`` flag to fly your steam locomotive
