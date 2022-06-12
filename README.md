@@ -49,13 +49,13 @@ Given below are a bunch of commands you can try in the termina to see how they w
     The command ``toilet`` is used to print out text in a particular font.
 <br>
 
-    - ### Installing toilet
+   - ### Installing toilet
     <img src = "/imgs/toilet_install.png" alt = "toilet installing">
 
-    - ### Running toilet
+   - ### Running toilet
     <img src = "/imgs/toilet_running.png" alt = "toilet running">
 
-    - You can also use ``figlet`` instead of the keyword ``toilet``
-    - you can use different flags like ``-f`` to change font ot ``-F`` to apply a certain filter for example ``-F gay`` is used to give rainbow color.
-    - you can use ``--help`` flag to know about other flags and their uses
+   - You can also use ``figlet`` instead of the keyword ``toilet``
+   - you can use different flags like ``-f`` to change font ot ``-F`` to apply a certain filter for example ``-F gay`` is used to give rainbow color.
+   - you can use ``--help`` flag to know about other flags and their uses
   <br> 
