@@ -22,7 +22,7 @@ Given below are a bunch of commands you can try in the termina to see how they w
   <img src ="/imgs/fortune_install.png">
 
    - ### Running fortune
-  <img src ="/imgs/fortune_running.psng">
+  <img src ="/imgs/fortune_running.png">
   <br>
 
 - ## Command: cowsay:
