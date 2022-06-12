@@ -1,61 +1,22 @@
-# Fun Linux Commands to try
-How about having a little fun in the terminal.
-Given below are a bunch of commands you can try in the termina to see how they work.
-- ## Command: sl (Steam Locomotive) 
-  You can use the ``sl`` command to have a steam locomotive go around the terminal.
-<br>
+# Solutions for Linux Installation problems #
+---
+## Hello Everyone! 👋 ## 
 
-  - ### Installing sl
-   <img src = "/imgs/sl_installing.png" alt = "sl installing"></img>
-  - ### Running sl
-  <img src ="/imgs/sl_running.png" alt= "sl running"></img>
-  You can also use ``-F`` flag to fly your steam locomotive
-  Try it yourself :) by using ``sl -F`` command
-<br>
+Linux distributions are amazing and working with one on a daily basis is a wonderfull experience but sometimes there are some problems that come along with them.
 
-- ## Command: fortune
-  How about getting a random fortune from the terminal?
-  Use ``fortune`` command to get a random fortune.
-<br>
+Most of them are due to some issues with drivers or some other issues with the distribution. Maybe you are using an Nvidia graphics card but your distribution is not able to use it effectively, or some of your input devices might not work, like the trackpad on your laptop, or some of your monitors might not work etc..
 
-  - ### Installing Fortune
-  <img src ="/imgs/fortune_install.png">
+## How to use this repository? ##
 
-   - ### Running fortune
-  <img src ="/imgs/fortune_running.psng">
-  <br>
+All the issues are listed in the form of respective branches in the repository.
+You can browse through them and use these solutions.
+**Also if you face any issues or find any problems with the solutions given you can raise an issue to initiate a discussion.**
 
-- ## Command: cowsay:
-    What will it look like to have an ASCII cow in your terminal saying whatever you want ?
-    Let's find with the help of ``cowsay`` command.'
-    <br>
+And if you find any new solution for these issues or any other issues that you might have faced you are free to contribute. `Just remember to add the solution in the appropriate branch.`
 
-    - ### Installing cowsay
-    <img src = "/imgs/cowsay_install.png" alt = "cowsay installing">
+## Motivation ##
 
-    - ### Running cowsay
-    <img src = "/imgs/cowsay_running.png" alt = "cowsay running">
+This particular repository is a collection of some of the problems I faced and i hope this might help you out.
+Obviously most of these solutions are out there but some of them are very difficult to find so I decided to create this particular repository to anyone who might be facing these problems and might be interested in these solutions.
 
-    - You can also use ``cowthink`` to get a little different variant of this
-
-    - Also try using ``fortune|cowsay`` to get a random fortune and have a cow say it.
-
-    - You can use ``-f ghostusters`` or ``-f bud-frogs`` to get something different from the cow for example ``cowsay -f ghostbusters heloo`` will return a ghost saying heloo ;)
-    - Try all of them by yourself :)
-<br>
-
-- ## Command: toilet
-    Well it isn't what it sounds like.
-    The command ``toilet`` is used to print out text in a particular font.
-<br>
-
-    - ### Installing toilet
-    <img src = "/imgs/toilet_install.png" alt = "toilet installing">
-
-    - ### Running toilet
-    <img src = "/imgs/toilet_running.png" alt = "toilet running">
-
-    - You can also use ``figlet`` instead of the keyword ``toilet``
-    - you can use different flags like ``-f`` to change font ot ``-F`` to apply a certain filter for example ``-F gay`` is used to give rainbow color.
-    - you can use ``--help`` flag to know about other flags and their uses
-  <br> 
+**Contributions are most welcome and appreciated! Thx for stopping by and lets spread the craze for linux everywhere😎😎!!**
